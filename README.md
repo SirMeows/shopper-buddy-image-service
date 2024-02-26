@@ -1,0 +1,1 @@
+# shopper-buddy-image-service
